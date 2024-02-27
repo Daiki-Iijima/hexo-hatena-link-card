@@ -1,0 +1,16 @@
+{
+  "name": "hexo-hatena-link-card",
+  "version": "1.0.0",
+  "description": "hexoではてなリンクカードを使用できるようにする",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "hexo",
+    "link",
+    "card"
+  ],
+  "author": "djima",
+  "license": "ISC"
+}
